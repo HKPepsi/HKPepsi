@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HKPepsi and im gaming
+- 👋 Hi, I’m Bernardo San Germano
 - 👀 I’m interested in Programming and Game Development
 - 🌱 I’m currently learning about C# programming
 - 💞️ I’m looking to collaborate on programming projects such as Windows .NET Forms and Console Applications.
