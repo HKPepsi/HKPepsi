@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HKPepsi and im gaming
-- 👀 I’m interested in arson
-- 🌱 I’m currently learning about thermite
-- 💞️ I’m looking to collaborate on decrepit buildings in industrial districts
-- 📫 How to reach me with smoke signals in the woods
+- 👀 I’m interested in Programming and Game Development
+- 🌱 I’m currently learning about C# programming
+- 💞️ I’m looking to collaborate on programming projects such as Windows .NET Forms and Console Applications.
+- 📫 How to reach me: By Email at Bernardosg1880@gmail.com
 
 <!---
 HKPepsi/HKPepsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
